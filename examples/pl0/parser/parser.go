@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/shivamMg/rd"
-	. "github.com/shivamMg/rd/examples/pl0/tokens"
+	"github.com/developersismedika/rd"
+	. "github.com/developersismedika/rd/examples/pl0/tokens"
 )
 
 // Grammar is PL/0's grammar in EBNF. Copied from https://en.wikipedia.org/wiki/PL/0#Grammar

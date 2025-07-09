@@ -7,9 +7,9 @@ import (
 
 	"flag"
 
-	"github.com/shivamMg/rd"
-	"github.com/shivamMg/rd/examples/arithmetic/backtrackingparser"
-	"github.com/shivamMg/rd/examples/arithmetic/parser"
+	"github.com/developersismedika/rd"
+	"github.com/developersismedika/rd/examples/arithmetic/backtrackingparser"
+	"github.com/developersismedika/rd/examples/arithmetic/parser"
 )
 
 var (

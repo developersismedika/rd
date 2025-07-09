@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/shivamMg/rd"
-	. "github.com/shivamMg/rd/examples/arithmetic/tokens"
+	"github.com/developersismedika/rd"
+	. "github.com/developersismedika/rd/examples/arithmetic/tokens"
 )
 
 const Grammar = `

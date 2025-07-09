@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/shivamMg/rd"
+	"github.com/developersismedika/rd"
 )
 
 const grammar = `

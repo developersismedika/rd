@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/shivamMg/rd"
+	"github.com/developersismedika/rd"
 )
 
 func main() {

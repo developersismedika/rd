@@ -6,8 +6,8 @@ import (
 
 	"io/ioutil"
 
-	"github.com/shivamMg/rd/examples/pl0/lexer"
-	"github.com/shivamMg/rd/examples/pl0/parser"
+	"github.com/developersismedika/rd/examples/pl0/lexer"
+	"github.com/developersismedika/rd/examples/pl0/parser"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/alecthomas/chroma"
-	"github.com/shivamMg/rd"
+	"github.com/developersismedika/rd"
 )
 
 var lexer = chroma.MustNewLexer(

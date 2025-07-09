@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/alecthomas/chroma"
-	"github.com/shivamMg/rd"
-	pl0Tokens "github.com/shivamMg/rd/examples/pl0/tokens"
+	"github.com/developersismedika/rd"
+	pl0Tokens "github.com/developersismedika/rd/examples/pl0/tokens"
 )
 
 var lexer = chroma.MustNewLexer(

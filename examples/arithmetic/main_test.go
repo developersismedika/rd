@@ -3,8 +3,8 @@ package main
 import (
 	"testing"
 
-	"github.com/shivamMg/rd"
-	"github.com/shivamMg/rd/examples/arithmetic/parser"
+	"github.com/developersismedika/rd"
+	"github.com/developersismedika/rd/examples/arithmetic/parser"
 )
 
 func TestArithmeticExpressionsGrammar(t *testing.T) {
